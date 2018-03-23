@@ -1,3 +1,0 @@
-[submodule "libpsf"]
-	path = libpsf
-	url = git@github.com:pkerichang/libpsf.git
